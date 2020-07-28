@@ -1,0 +1,25 @@
+{
+  "name": "backend",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "axios": "^0.19.2",
+    "cookie-parser": "~1.4.4",
+    "cors": "^2.8.5",
+    "crypto": "^1.0.1",
+    "debug": "~2.6.9",
+    "dotenv": "^8.2.0",
+    "express": "~4.16.1",
+    "http-errors": "~1.6.3",
+    "hubspot": "^2.3.13",
+    "jade": "~1.11.0",
+    "morgan": "~1.9.1",
+    "stream-chat": "^1.12.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
