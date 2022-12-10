@@ -12,7 +12,7 @@
     "crypto": "^1.0.1",
     "debug": "~2.6.9",
     "dotenv": "^8.2.0",
-    "express": "~4.16.1",
+    "express": "~4.17.3",
     "http-errors": "~1.6.3",
     "hubspot": "^2.3.13",
     "jade": "~1.11.0",
